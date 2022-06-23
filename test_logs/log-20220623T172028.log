@@ -1,0 +1,5 @@
+17:20:31.050 [Test worker] INFO  pages.HomePage - Start method -->   
+17:20:32.250 [Test worker] INFO  pages.HomePage - >>>    Logger from method  -   f1
+17:20:32.252 [Test worker] INFO  pages.HomePage - 'wd.quit' - started!
+17:20:37.241 [Test worker] INFO  pages.HomePage - >>>    Logger from method  -   f2
+17:20:37.243 [Test worker] INFO  pages.HomePage - 'wd.quit' - started!
